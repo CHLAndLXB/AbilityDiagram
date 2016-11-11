@@ -45,15 +45,7 @@
     
     NSDictionary * dic = @{@"输出":@"22.8",@"综合":@"44.8",@"KDA":@"44.2",@"发育":@"43.3",@"推进":@"90.7",@"生存":@"73.5"};
     
-    
     _dataDic = [dic mutableCopy];
-    
-//    [_dataDic setObject:@"22.8" forKey:@"shuchu"];
-////    [self.dataDic setObject:@"44.8" forKey:@"zonghe"];
-////    [self.dataDic setObject:@"44.2" forKey:@"KDA"];
-////    [self.dataDic setObject:@"43.3" forKey:@"fayu"];
-////    [self.dataDic setObject:@"90.7" forKey:@"tuijin"];
-////    [self.dataDic setObject:@"73.5" forKey:@"shengcun"];
     
     
     /*---------------------------------*/
